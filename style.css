@@ -1,0 +1,20 @@
+
+h1{
+    color:palevioletred; 
+    border:solid;
+    text-align: center;
+}
+.steps{
+    color:purple;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: pink;
+}
+body {
+    
+    margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+  border: 2px solid black;
+  }
